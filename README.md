@@ -2,7 +2,7 @@
 
 Submitted by: Loyd Flores
 
-This web app: "Developed a React-based webpage emulating a community board featuring multiple boards catering to various event types, where each event is represented as a virtual sticky note, facilitating seamless event organization and management."
+This web app: "Developed a React-based webpage emulating Governor's Island community board featuring multiple boards catering to various event types, where each event is represented as a virtual sticky note, facilitating seamless event organization and management. The actual events exist within the Island's event programming."
 
 Time spent: **6** hours spent in total
 
