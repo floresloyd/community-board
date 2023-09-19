@@ -27,6 +27,13 @@ const Board = () => {
         and explore everything the Island has to offer."
           color="pink"
         />
+        <Event
+          link="/src/assets/lavander-field.jpg"
+          alt="lavander-field"
+          event="Lavander Field"
+          description="Visitors can stroll through rows of fragrant lavender."
+          color="pink"
+        />
       </div>{" "}
       <div className="Board">
         <Event
@@ -52,6 +59,33 @@ const Board = () => {
           description="Tour the Island with a Friends of Governors Island volunteer docent to learn about its
           transformation from military post to New York’s newest cultural destination."
           color="blue"
+        />
+      </div>
+      <div className="Board">
+        <Event
+          link="/src/assets/play-ground.jpg"
+          alt="play-ground"
+          event="play:groundNYC’s The Yard Adventure Playground"
+          description="Kids can play, imagine, and create their own fun at The Yard, a 20,000 sq ft adventure
+          playground!."
+          color="green"
+        />
+        <Event
+          link="/src/assets/grove-sheep.jpg"
+          alt="hammock-grove-sheep"
+          event="Hammock Grove Sheep"
+          description="Five sheep from Friends of Tivoli Lake Preserve and Farm are living
+          in Hammock Grove through the summer to help control invasive species like phragmites and
+          mugwort."
+          color="green"
+        />
+        <Event
+          link="/src/assets/retreats.png"
+          alt="collective-retreats"
+          event="Collective Retreats"
+          description="Collective Retreats offers unique, seasonal lodging on Governors Island, offering both full hotel-
+          style service and premium select service accommodations as well as experiential dining."
+          color="green"
         />
       </div>
     </>

@@ -86,3 +86,17 @@ h3 {
 .image-containerblue {
   background-color: #b1d3f6;
 }
+
+.event-flex-containergreen {
+  display: flex;
+  min-width: 300px;
+  min-height: 50vh;
+  background-color: #aec81c;
+  justify-content: space-between;
+  padding: 5px;
+  margin: 50px;
+}
+
+.image-containergreen {
+  background-color: #e6f2a2;
+}
